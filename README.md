@@ -87,8 +87,8 @@ These metrics indicate excellent generalization to unseen data and confirm the m
 
 ```bash
 # Clone the repository
-git clone https://github.com/sruthykbenni/Credit-Card-Fraud-Detection.git
-cd Credit-Card-Fraud-Detection
+git clone https://github.com/Aparna-analyst/Credit-card-fraud-detection.git
+cd Credit-card-fraud-detection
 
 # Create virtual environment
 python -m venv venv
@@ -112,20 +112,7 @@ You can also inspect results in the `notebooks/` folder or run the Colab noteboo
 
 ---
 
-## 📁 Folder Structure
 
-```
-Credit-Card-Fraud-Detection/
-├── data/               # Raw and processed datasets
-├── models/             # Saved model weights
-├── notebooks/          # Exploratory and evaluation notebooks
-├── src/                # Source code for graph construction, training
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
-└── LICENSE             # Project license
-```
-
----
 
 ## 🔮 Future Work
 
