@@ -11,11 +11,9 @@ A robust credit card fraud detection system built using **Graph Neural Networks 
 - [Methodology](#methodology)
 - [Results](#results)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Future Work](#future-work)
 - [License](#license)
-- [Repository](#repository)
+
 
 ---
 
@@ -97,20 +95,7 @@ source venv/bin/activate        # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 ```
-
----
-
-## 🚀 Usage
-
-Run the training and evaluation scripts or explore the notebooks for experimentation:
-
-```bash
-python src/train_model.py
-```
-
-You can also inspect results in the `notebooks/` folder or run the Colab notebook for end-to-end execution.
-
----
+----
 
 
 
